@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-test
+<embed src="/resume/master/CD_resume_portfolio.pdf" width="100%" height="745px">
+</embed>
 </body>
 </html>
