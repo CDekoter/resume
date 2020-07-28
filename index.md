@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<p> Header Line </p>
+<head> ... </head>
 <body>
-test text
+<embed src="/resume/blob/master/resum3a_m.pdf" width="100%" height="745px">
 </embed>
 </body>
 </html>
